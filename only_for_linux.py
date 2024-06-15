@@ -15,5 +15,4 @@ printf(b"Hello, %S\n", "World!")
 printf(b"%d bottles of beer\n", 42)
 
 
-printf(b"%f bottles of beer\n", 42.5)
                          
