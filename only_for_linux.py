@@ -13,6 +13,3 @@ printf(b"Hello, %S\n", "World!")
 
 
 printf(b"%d bottles of beer\n", 42)
-
-
-                         
