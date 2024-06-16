@@ -1,4 +1,4 @@
-#This file will run only on Windows or a computer that has Microsoft Visual C++
+#This file will run only on Windows or a computer that has msvcrt.dll
 
 from ctypes import *
 print(windll.kernel32)  
